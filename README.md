@@ -33,6 +33,10 @@ Javascript Asynchronous merupakan tulis arti yang menjelaskan javascript ini den
 - ["LatentFlip Loupe"](http://latentflip.com/loupe/) 
 
 
+## Pemahaman sederhana Javascript Asynchronous
+![](demo.png)
+
+
 
 
 
