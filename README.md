@@ -24,6 +24,10 @@ Javascript Asynchronous merupakan tulis arti yang menjelaskan javascript ini den
 - ["Javascript Asynchronous"](https://studentutac-my.sharepoint.com/:p:/r/personal/041214065_ecampus_ut_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7B33010157-8ECB-4ECA-8445-C7CE287FF990%7D&file=Javascript%20-%20Asynchronous.pptx&action=edit&mobileredirect=true) - _Materi Belajar_
 - ["Advanced ES6"](https://studentutac-my.sharepoint.com/:p:/r/personal/041214065_ecampus_ut_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7B9630E678-84FB-460A-8A55-7AFC0D5DC202%7D&file=Advanced%20ES6.pptx&action=edit&mobileredirect=true) - _Materi Belajar_
 
+## Video Tutorial
+
+- ["Async JS Crash Course - Callbacks, Promises, Async Await"](https://www.youtube.com/watch?v=PoRJizFvM7s&list=WL&index=9&t=16s) - _Traversy Media_
+
 ## API
 
 - ["Any Api"](https://any-api.com/) 
