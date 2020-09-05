@@ -1,0 +1,27 @@
+.judul {
+  text-align-last: center;
+  margin-top: 50px;
+}
+
+.container {
+  background-color: whitesmoke;
+}
+
+.country {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 100px;
+}
+
+@media (max-width: 576px) {
+  .judul {
+    text-align-last: center;
+    margin-top: 50px;
+  }
+
+  .country {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 50px;
+  }
+}
