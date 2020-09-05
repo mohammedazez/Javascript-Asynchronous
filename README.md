@@ -19,8 +19,14 @@ Javascript Asynchronous merupakan tulis arti yang menjelaskan javascript ini den
 - ["Belajar Javascript: Apa itu AJAX? dan Bagaimana Cara Menggunakannya?"](https://www.petanikode.com/javascript-ajax/) - _Petani kode_
 - ["JavaScript brief history and ECMAScript(ES6,ES7,ES8,ES9) features"](https://medium.com/@madasamy/javascript-brief-history-and-ecmascript-es6-es7-es8-features-673973394df4) - _Medium_
 - ["Panduan Komplit Asynchronous Programming pada Javascript"](https://medium.com/coderupa/panduan-komplit-asynchronous-programming-pada-javascript-part-1-fca22279c056) - _Medium_
+- ["Panduan Komplit Asynchronous Programming pada Javascript — Part #3 Promise"](https://medium.com/coderupa/panduan-komplit-asynchronous-programming-pada-javascript-part-3-promise-819ce5d8b3c) - _Medium_
+- ["Panduan Komplit Asynchronous Programming pada Javascript — Part #4 Async/await"](https://medium.com/coderupa/panduan-komplit-asynchronous-programming-pada-javascript-part-4-async-await-fc504c344238) - _Medium_
 - ["Javascript Asynchronous"](https://studentutac-my.sharepoint.com/:p:/r/personal/041214065_ecampus_ut_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7B33010157-8ECB-4ECA-8445-C7CE287FF990%7D&file=Javascript%20-%20Asynchronous.pptx&action=edit&mobileredirect=true) - _Materi Belajar_
 - ["Advanced ES6"](https://studentutac-my.sharepoint.com/:p:/r/personal/041214065_ecampus_ut_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7B9630E678-84FB-460A-8A55-7AFC0D5DC202%7D&file=Advanced%20ES6.pptx&action=edit&mobileredirect=true) - _Materi Belajar_
+
+## Video Tutorial
+
+- ["Async JS Crash Course - Callbacks, Promises, Async Await"](https://www.youtube.com/watch?v=PoRJizFvM7s&list=WL&index=9&t=16s) - _Traversy Media_
 
 ## API
 
